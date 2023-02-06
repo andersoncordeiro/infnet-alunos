@@ -3,7 +3,19 @@
 ## Repositório de Projetos
 
 - Bootcamp Data Science
--- Criar o ambiente virtual
--- Clonar o repositório
--- Instalar o requirements.txt
--- Abrir IDE
+
+- Criar ambiente virtual
+```
+python -m venv .ambiente
+```
+
+- Clonar o repositorio
+```
+git clone ...
+```
+
+- Instalar o requirements
+```
+pip install -r requirements.txt
+```
+
