@@ -1,2 +1,5 @@
-# infnet-alunos
-Repositório de Projetos - Bootcamp DS
+# INFNET
+
+## Repositório de Projetos
+
+- Bootcamp Data Science
